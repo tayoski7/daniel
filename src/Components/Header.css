@@ -1,0 +1,24 @@
+.navContain{
+    display: flex;
+    justify-content: space-between;
+    width:100%;
+    height:100px;
+    background-color:black;
+}
+.navs{
+    width:50%;
+    display:flex;
+    justify-content:space-around;
+    align-items: center;
+}
+.navs>a{
+    text-decoration: none;
+    color:white;
+    font-size: 30px;
+}
+.bg{
+    width:200px;
+    height:80%;
+    align-self: center;
+    margin-left: 40px;
+}
